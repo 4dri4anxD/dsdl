@@ -1,0 +1,5 @@
+#
+# DroneCAN version of MAVLink 
+# see MAVLink XML for detailed description
+#
+uint32 flt_time

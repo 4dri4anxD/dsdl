@@ -1,0 +1,7 @@
+#
+# DroneCAN version of MAVLink 
+# see MAVLink XML for detailed description
+#
+uint8[16] mac
+uint8[24] nonce
+uint8[17] cipher_text

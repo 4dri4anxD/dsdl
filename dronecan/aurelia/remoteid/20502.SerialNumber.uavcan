@@ -1,0 +1,5 @@
+#
+# DroneCAN version of MAVLink AURELIA_ODID_SERIAL_NUMBER
+# see MAVLink XML for detailed description
+#
+int32 serial_number
